@@ -1,0 +1,22 @@
+{
+    "name": "havenshen/yunpian-sms",
+    "description": "Yunpian SMS Services.",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HavenShen",
+            "email": "havenshen@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HavenShen\\YunpianSMS\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5.0"
+    }
+}
