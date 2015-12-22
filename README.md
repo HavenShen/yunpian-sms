@@ -6,7 +6,7 @@
 1. 安装包文件
 
   ```shell
-  composer require "overtrue/laravel-wechat:2.1.*"
+  composer require havenshen/yunpian-sms
   ```
 
 ## 配置
