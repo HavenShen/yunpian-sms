@@ -15,7 +15,7 @@ class YunpianSMSServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__ . '/config/yunpian.php' => base_path('config/yunpian.php'),
+            __DIR__ . '/config/config.php' => base_path('config/yunpian.php'),
         ]);
     }
 
