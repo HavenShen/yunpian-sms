@@ -1,6 +1,14 @@
 # yunpian-sms
 > 本版本可以用于使用[云片网络短信服务商](http://www.yunpian.com/)、基于laravel5.1.*以上版本的系统集成短信发送功能。
 
+## 安装
+
+1. 安装包文件
+
+  ```shell
+  composer require "overtrue/laravel-wechat:2.1.*"
+  ```
+
 ## 配置
 
 ### Laravel 应用
