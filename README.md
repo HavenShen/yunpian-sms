@@ -1,5 +1,6 @@
 # yunpian-sms
-> 本版本可以用于使用[云片网络短信服务商](http://www.yunpian.com/)、基于laravel5.1.*以上版本的系统集成短信发送功能。
+
+> 本版本可以用于使用[云片网络短信服务商](http://www.yunpian.com/),基于laravel5.1.*以上版本的系统集成短信发送功能。
 
 ## 安装
 
